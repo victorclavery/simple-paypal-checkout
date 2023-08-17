@@ -11,6 +11,10 @@ This is a simple web application that simulates a shopping cart page for a web s
 - PayPal JavaScript SDK
 - PayPal API
 
+## Website Adress
+
+- http://34.123.188.225/
+
 
 # REST API INFORMATION
 
