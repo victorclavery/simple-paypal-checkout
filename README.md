@@ -26,11 +26,11 @@ ENVIRONMENT=sandbox
 ## BUSINESS
 
 ### LOGIN INFO(SELLER)
-APP_NAME=Electronic Parts USA
-E_MAIL=sb-wj4or27046114@business.example.com
-PASWORD=<));N2jR
-REGION=US
-NAME=John Doe
+- APP_NAME=Electronic Parts USA
+- E_MAIL=sb-wj4or27046114@business.example.com
+- PASWORD=<));N2jR
+- REGION=US
+- NAME=John Doe
 ### Rest API APPS
 CLIENT_ID=AeWLHoYhQOi2syXGaE9ClpfMIdGARYc4OE-3TOGpko3tGaRqpQ0xvewyehwVdhazzMEOh5t7qcHOWDCj
 SECRET_KEY=EMQisPvQs9tM8jB0aiG69jesxH9Y7lFqN6fZZkiWXFXmRRNeFYbvAhcumTpQPOMRT8oSJLwEjIk3iyRT
@@ -38,8 +38,8 @@ SECRET_KEY=EMQisPvQs9tM8jB0aiG69jesxH9Y7lFqN6fZZkiWXFXmRRNeFYbvAhcumTpQPOMRT8oSJ
 ## PERSONAL(BUYER)
 
 ### LOGIN INFO
-E_MAIL=sb-ozv47s26980599@personal.example.com
-PASSWORD=';JIsd5%
+E_MAIL="sb-ozv47s26980599@personal.example.com"
+PASSWORD="';JIsd5%"
 REGION=US
 NAME=John Doe
 
