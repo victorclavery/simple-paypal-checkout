@@ -21,7 +21,7 @@ This is a simple web application that simulates a shopping cart page for a web s
 ### LOGIN INFO(SELLER)
 - APP_NAME=Electronic Parts USA
 - E_MAIL=sb-wj4or27046114@business.example.com
-- PASWORD=<));N2jR
+- PASSWORD=<));N2jR
 - REGION=US
 - NAME=John Doe
 ### Rest API APPS
