@@ -12,13 +12,6 @@ This is a simple web application that simulates a shopping cart page for a web s
 - PayPal API
 
 
-## Contact
-
-
-LinkedIn: [Victor Clavery](https://www.linkedin.com/in/victorclavery/)
-
-
-
 # REST API INFORMATION
 
 - ENVIRONMENT=Sandbox
@@ -42,5 +35,10 @@ LinkedIn: [Victor Clavery](https://www.linkedin.com/in/victorclavery/)
 - PASSWORD=';JIsd5%
 - REGION=US
 - NAME=John Doe
+
+## Contact
+
+
+LinkedIn: [Victor Clavery](https://www.linkedin.com/in/victorclavery/)
 
 
