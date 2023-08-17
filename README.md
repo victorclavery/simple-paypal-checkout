@@ -21,7 +21,7 @@ LinkedIn: [Victor Clavery](https://www.linkedin.com/in/victorclavery/)
 
 # REST API INFORMATION
 
-ENVIRONMENT=sandbox
+- ENVIRONMENT=Sandbox
 
 ## BUSINESS
 
@@ -32,15 +32,15 @@ ENVIRONMENT=sandbox
 - REGION=US
 - NAME=John Doe
 ### Rest API APPS
-CLIENT_ID=AeWLHoYhQOi2syXGaE9ClpfMIdGARYc4OE-3TOGpko3tGaRqpQ0xvewyehwVdhazzMEOh5t7qcHOWDCj
-SECRET_KEY=EMQisPvQs9tM8jB0aiG69jesxH9Y7lFqN6fZZkiWXFXmRRNeFYbvAhcumTpQPOMRT8oSJLwEjIk3iyRT
+- CLIENT_ID=AeWLHoYhQOi2syXGaE9ClpfMIdGARYc4OE-3TOGpko3tGaRqpQ0xvewyehwVdhazzMEOh5t7qcHOWDCj
+- SECRET_KEY=EMQisPvQs9tM8jB0aiG69jesxH9Y7lFqN6fZZkiWXFXmRRNeFYbvAhcumTpQPOMRT8oSJLwEjIk3iyRT
 
 ## PERSONAL(BUYER)
 
 ### LOGIN INFO
-E_MAIL="sb-ozv47s26980599@personal.example.com"
-PASSWORD="';JIsd5%"
-REGION=US
-NAME=John Doe
+- E_MAIL=sb-ozv47s26980599@personal.example.com
+- PASSWORD=';JIsd5%
+- REGION=US
+- NAME=John Doe
 
 
